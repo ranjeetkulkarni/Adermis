@@ -12,37 +12,37 @@ Adermis is a full-stack, AI-driven web application that empowers users to:
 ## 🚀 Demo Gallery
 
 ### 1. Dashboard & Upload Interface  
-![Dashboard & Upload](images\adermis1.jpg)  
+![Dashboard & Upload](./images/adermis1.jpg)  
 *Upload a photo of your skin concern and select additional symptoms.*
 
 ---
 
 ### 2. Entering Disease Info & Concerns  
-![Enter Disease Info](images\adermis2.jpg)  
+![Enter Disease Info](./images/adermis2.jpg)  
 *Describe your lesion and pick related concerns (redness, bumps, etc.).*
 
 ---
 
 ### 3. AI Analysis Result  
-![AI Analysis](images\adermis3.jpg)  
+![AI Analysis](./images/adermis3.jpg)  
 *Our model identifies “Melanocytic Nevi” with confidence and severity.*
 
 ---
 
 ### 4. Nearby Clinics & Pharmacies  
-![Google Maps Integration](images\adermis4.jpg)  
+![Google Maps Integration](./images/adermis4.jpg)  
 *Find NGOs, government, private clinics or pharmacies near you.*
 
 ---
 
 ### 5. Women’s Health Chatbot  
-![AI Chatbot](images\adermis5.jpg)  
+![AI Chatbot](./images/adermis5.jpg)  
 *Secure, confidential chat for women’s health questions (e.g., delayed periods).*
 
 ---
 
 ### 6. Final Treatment Plan  
-![Treatment Plan](images\adermis6.jpg)  
+![Treatment Plan](./images/adermis6.jpg)  
 *Ayurvedic remedies, home care, OTC options, and prescription guidance.*
 
 ---
