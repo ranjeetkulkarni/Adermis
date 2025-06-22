@@ -1,19 +1,69 @@
 # Skin Disease Prediction Web App
 
 A full-stack AI-powered web application to predict skin diseases from user-uploaded images and provide follow-up analysis and treatment recommendations.
+Adermis is a full-stack, AI-driven web application that empowers users to:
+1. **Upload** skin images for instant disease detection  
+2. **Answer** follow-up questions to refine your diagnosis  
+3. **Locate** nearby clinics or pharmacies via Google Maps API  
+4. **Chat** confidentially about women’s health concerns  
+5. **Receive** a tailored treatment plan  
+
+---
+## 🚀 Demo Gallery
+
+### 1. Dashboard & Upload Interface  
+![Dashboard & Upload](images\adermis1.jpg)  
+*Upload a photo of your skin concern and select additional symptoms.*
 
 ---
 
-## 📌 Features
-
-- Skin image analysis using a pre-trained deep learning model.
-- Follow-up questions for refining diagnosis via custom logic or ML.
-- Disease-specific solution page with Ayurvedic, home remedies, OTC, and prescription treatments.
-- Built using Next.js, TailwindCSS, and Python backend (Flask/FastAPI).
-- Secure client-server communication with binary-encoded requests and responses.
+### 2. Entering Disease Info & Concerns  
+![Enter Disease Info](images\adermis2.jpg)  
+*Describe your lesion and pick related concerns (redness, bumps, etc.).*
 
 ---
 
+### 3. AI Analysis Result  
+![AI Analysis](images\adermis3.jpg)  
+*Our model identifies “Melanocytic Nevi” with confidence and severity.*
+
+---
+
+### 4. Nearby Clinics & Pharmacies  
+![Google Maps Integration](images\adermis4.jpg)  
+*Find NGOs, government, private clinics or pharmacies near you.*
+
+---
+
+### 5. Women’s Health Chatbot  
+![AI Chatbot](images\adermis5.jpg)  
+*Secure, confidential chat for women’s health questions (e.g., delayed periods).*
+
+---
+
+### 6. Final Treatment Plan  
+![Treatment Plan](images\adermis6.jpg)  
+*Ayurvedic remedies, home care, OTC options, and prescription guidance.*
+
+---
+- **Skin Disease Detection**  
+  - Pre-trained deep learning model (e.g. ResNet50) classifies common skin conditions.  
+  - Confidence scores & severity levels.  
+- **Dynamic Follow-Up**  
+  - Contextual questions refine accuracy.  
+- **Treatment Recommendations**  
+  1. **Ayurvedic Solutions** 🪔  
+  2. **Home Remedies** 🏡  
+  3. **Over-The-Counter (OTC)** 💊  
+  4. **Prescription Drugs** 🧾  
+- **Location Services**  
+  - Google Maps API to find nearby clinics, pharmacies, NGOs.  
+- **Women’s Health Assistant**  
+  - Chat UI for gynecological concerns powered by OpenAI’s Chat API.  
+- **Secure & Confidential**  
+  - Binary-encoded requests/responses, GDPR-compliant.
+
+---
 ## Architecture Overview
 
 Frontend (Next.js) <--> API Gateway <--> ML Server (Python)
