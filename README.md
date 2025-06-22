@@ -9,6 +9,12 @@ Adermis is a full-stack, AI-driven web application that empowers users to:
 5. **Receive** a tailored treatment plan  
 
 ---
+
+## 🎥 Live Demo
+
+[![▶️ Watch the demo video](https://img.youtube.com/vi/QFIwp3FHfEY/0.jpg)](https://youtu.be/QFIwp3FHfEY)
+
+---
 ## 🚀 Demo Gallery
 
 ### 1. Dashboard & Upload Interface  
